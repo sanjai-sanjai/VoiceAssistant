@@ -4,7 +4,7 @@ Packages:
 
 (# Run the below command in the terminal to install the library just copy the below line and paste it on terminal) 
 
-pip install SpeechRecognition pyttsx3 pywhatkit wikipedia screen-brightness-control comtypes pycaw pyautogui pygame
+pip install SpeechRecognition pyttsx3 pywhatkit wikipedia screen-brightness-control comtypes pycaw pyautogui pygame pyaudio
 
 
 ------------------------------------------
