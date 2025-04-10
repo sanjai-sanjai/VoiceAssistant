@@ -11,6 +11,7 @@ from ctypes import cast, POINTER
 from comtypes import CLSCTX_ALL
 from pycaw.pycaw import AudioUtilities, IAudioEndpointVolume
 import pyautogui
+import pyaudio
 import pygame  # Added for sound playback
 
 # Text-to-speech engine
